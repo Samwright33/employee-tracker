@@ -6,7 +6,7 @@
 ## Description
 The Employee Tracker App was designed for a user who needs
 
-![Screenshot of the page](./Develop/assets/etss.png)
+![Screenshot of the page](./assets/etss.png)
 
 ## License
 MIT
